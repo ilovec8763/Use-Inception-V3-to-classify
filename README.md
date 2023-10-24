@@ -4,4 +4,4 @@ Use the camera to capture real-time video and apply Inception V3 to identify the
 After downloading the project, you can click the .sln file and run the program.
 
 demo picture
-![image]()
+![image](https://github.com/ilovec8763/Use-Inception-V3-to-classify/blob/master/demo.png)
