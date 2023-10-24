@@ -5,3 +5,6 @@ After downloading the project, you can click the .sln file and run the program.
 
 demo picture
 ![image](https://github.com/ilovec8763/Use-Inception-V3-to-classify/blob/master/demo.png)
+
+demo picture 2
+![image](https://github.com/ilovec8763/Use-Inception-V3-to-classify/blob/master/demo2.png)
