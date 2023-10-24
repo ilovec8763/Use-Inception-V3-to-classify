@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Use_InceptionV3_to_classify", "Use_InceptionV3_to_classify\Use_InceptionV3_to_classify.pyproj", "{93C13CA7-0BAF-4511-B26A-DAB56B05CE65}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93C13CA7-0BAF-4511-B26A-DAB56B05CE65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93C13CA7-0BAF-4511-B26A-DAB56B05CE65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6756E8B0-7E44-4961-BA3B-99C900E509D3}
+	EndGlobalSection
+EndGlobal
